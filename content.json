@@ -1,19 +1,33 @@
-{
-  "categories": [
-    {
-      "name": "Haber",
-      "color": "#FF5722",
-      "links": [
-        { "name": "NTV", "url": "https://www.ntv.com.tr", "icon": "ntv.png" },
-        { "name": "CNN Türk", "url": "https://www.cnnturk.com", "icon": "cnn.png" }
-      ]
-    },
-    {
-      "name": "Spor",
-      "color": "#4CAF50",
-      "links": [
-        { "name": "Fanatik", "url": "https://www.fanatik.com.tr", "icon": "fanatik.png" }
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "Haber",
+    "links": [
+      { "title": "NTV", "url": "https://www.ntv.com.tr", "icon": "https://upload.wikimedia.org/wikipedia/tr/8/8b/NTV_logo.png" },
+      { "title": "CNN Türk", "url": "https://www.cnnturk.com", "icon": "https://upload.wikimedia.org/wikipedia/tr/e/e1/CNN_T%C3%BCrk_logo.png" },
+      { "title": "TRT Haber", "url": "https://www.trthaber.com", "icon": "https://www.trthaber.com/resimler/logo.png" }
+    ]
+  },
+  {
+    "name": "Spor",
+    "links": [
+      { "title": "NTV Spor", "url": "https://www.ntvspor.net", "icon": "https://upload.wikimedia.org/wikipedia/tr/d/d6/NTV_Spor_logo.png" },
+      { "title": "Fanatik", "url": "https://www.fanatik.com.tr", "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Fanatik_logo.png" },
+      { "title": "Sporx", "url": "https://www.sporx.com", "icon": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sporx_logo.png" }
+    ]
+  },
+  {
+    "name": "Müzik",
+    "links": [
+      { "title": "PowerTürk", "url": "https://www.powerturk.com", "icon": "https://www.powerapp.com.tr/images/powerturk.png" },
+      { "title": "Kral Müzik", "url": "https://www.kralmuzik.com.tr", "icon": "https://upload.wikimedia.org/wikipedia/tr/0/04/Kral_TV_logo.png" },
+      { "title": "Number One", "url": "https://www.numberone.com.tr", "icon": "https://www.numberone.com.tr/images/logo.png" }
+    ]
+  },
+  {
+    "name": "Videolar",
+    "links": [
+      { "title": "Eğitim", "url": "https://www.example.com/videos/egitim.json", "icon": "https://cdn-icons-png.flaticon.com/512/3771/3771491.png" },
+      { "title": "Belgesel", "url": "https://www.example.com/videos/belgesel.json", "icon": "https://cdn-icons-png.flaticon.com/512/2535/2535543.png" }
+    ]
+  }
+]
