@@ -1,0 +1,49 @@
+{
+  "categories": [
+    {
+      "name": "Haber",
+      "items": [
+        {
+          "title": "NTV",
+          "url": "https://www.ntv.com.tr",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/NTV_Logo.svg/1200px-NTV_Logo.svg.png"
+        },
+        {
+          "title": "Hürriyet",
+          "url": "https://www.hurriyet.com.tr",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Hurriyet_logo.png"
+        }
+      ]
+    },
+    {
+      "name": "Spor",
+      "items": [
+        {
+          "title": "NTV Spor",
+          "url": "https://www.ntvspor.net",
+          "image": "https://upload.wikimedia.org/wikipedia/tr/5/5e/Ntvspor.png"
+        },
+        {
+          "title": "Fanatik",
+          "url": "https://www.fanatik.com.tr",
+          "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Fanatik_logo.png"
+        }
+      ]
+    },
+    {
+      "name": "Videolar",
+      "items": [
+        {
+          "title": "Eğitim Videosu",
+          "url": "https://www.example.com/video1.mp4",
+          "image": "https://via.placeholder.com/300x200.png?text=Egitim+Video"
+        },
+        {
+          "title": "Belgesel",
+          "url": "https://www.example.com/video2.mp4",
+          "image": "https://via.placeholder.com/300x200.png?text=Belgesel"
+        }
+      ]
+    }
+  ]
+}
