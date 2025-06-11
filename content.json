@@ -1,84 +1,332 @@
-{
-  "categories": [
-    {
-      "name": "Haber",
-      "color": "#FF5722",
-      "sites": [
-        {
-          "name": "NTV",
-          "url": "https://www.ntv.com.tr",
-          "icon": "pornhub"
-        },
-        {
-          "name": "CNN Türk",
-          "url": "https://www.cnnturk.com",
-          "icon": "cnnturk"
-        }
-      ]
-    },
-    {
-      "name": "Spor",
-      "color": "#4CAF50",
-      "sites": [
-        {
-          "name": "Fanatik",
-          "url": "https://www.fanatik.com.tr",
-          "icon": "fanatik"
-        },
-        {
-          "name": "TRT Spor",
-          "url": "https://www.trtspor.com.tr",
-          "icon": "trtspor"
-        }
-      ]
-    },
-    {
-      "name": "Müzik",
-      "color": "#9C27B0",
-      "sites": [
-        {
-          "name": "PowerTürk",
-          "url": "https://www.powerturk.com",
-          "icon": "powerturk"
-        },
-        {
-          "name": "Kral Müzik",
-          "url": "https://www.kralmuzik.com.tr",
-          "icon": "kral"
-        }
-      ]
-    },
-    {
-      "name": "Teknoloji",
-      "color": "#2196F3",
-      "sites": [
-        {
-          "name": "Webtekno",
-          "url": "https://www.webtekno.com",
-          "icon": "webtekno"
-        },
-        {
-          "name": "ShiftDelete",
-          "url": "https://www.shiftdelete.net",
-          "icon": "sdn"
-        }
-      ]
-    },
-    {
-      "name": "Videolar",
-      "color": "#FFC107",
-      "sites": [
-        {
-          "name": "Eğitim",
-          "url": "https://example.com/egitim",
-          "icon": "egitim"
-        },
-        {
-          "name": "Belgesel",
-          "url": "https://example.com/belgesel",
-          "icon": "belgesel"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "Haber",
+    "links": [
+      {
+        "name": "NTV",
+        "url": "https://www.ntv.com.tr",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/pornhub.png"
+      },
+      {
+        "name": "CNN Türk",
+        "url": "https://www.cnnturk.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/xhamster.png"
+      },
+      {
+        "name": "Hürriyet",
+        "url": "https://www.hurriyet.com.tr",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/xvideos.png"
+      },
+      {
+        "name": "Sözcü",
+        "url": "https://www.sozcu.com.tr",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/sozcu.png"
+      },
+      {
+        "name": "Milliyet",
+        "url": "https://www.milliyet.com.tr",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/milliyet.png"
+      },
+      {
+        "name": "TRT Haber",
+        "url": "https://www.trthaber.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/trthaber.png"
+      },
+      {
+        "name": "BBC Türkçe",
+        "url": "https://www.bbc.com/turkce",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/bbc.png"
+      },
+      {
+        "name": "DW Türkçe",
+        "url": "https://www.dw.com/tr",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/dw.png"
+      },
+      {
+        "name": "Euronews",
+        "url": "https://tr.euronews.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/euronews.png"
+      },
+      {
+        "name": "Gazete Duvar",
+        "url": "https://www.gazeteduvar.com.tr",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/duvar.png"
+      }
+    ]
+  },
+  {
+    "name": "Spor",
+    "links": [
+      {
+        "name": "NTV Spor",
+        "url": "https://www.ntvspor.net",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/ntvspor.png"
+      },
+      {
+        "name": "Fanatik",
+        "url": "https://www.fanatik.com.tr",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/fanatik.png"
+      },
+      {
+        "name": "Fotomaç",
+        "url": "https://www.fotomac.com.tr",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/fotomac.png"
+      },
+      {
+        "name": "TRT Spor",
+        "url": "https://www.trtspor.com.tr",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/trtspor.png"
+      },
+      {
+        "name": "Sporx",
+        "url": "https://www.sporx.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/sporx.png"
+      },
+      {
+        "name": "Ajansspor",
+        "url": "https://www.ajansspor.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/ajansspor.png"
+      },
+      {
+        "name": "ESPN",
+        "url": "https://www.espn.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/espn.png"
+      },
+      {
+        "name": "Sky Sports",
+        "url": "https://www.skysports.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/skysports.png"
+      },
+      {
+        "name": "BBC Sport",
+        "url": "https://www.bbc.com/sport",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/bbcsport.png"
+      },
+      {
+        "name": "Goal",
+        "url": "https://www.goal.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/goal.png"
+      }
+    ]
+  },
+  {
+    "name": "Müzik",
+    "links": [
+      {
+        "name": "PowerTürk",
+        "url": "https://www.powerturk.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/powerturk.png"
+      },
+      {
+        "name": "Kral Müzik",
+        "url": "https://www.kralmuzik.com.tr",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/kralmuzik.png"
+      },
+      {
+        "name": "Number One",
+        "url": "https://www.numberone.com.tr",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/numberone.png"
+      },
+      {
+        "name": "MTV",
+        "url": "https://www.mtv.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/mtv.png"
+      },
+      {
+        "name": "Spotify Charts",
+        "url": "https://charts.spotify.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/spotify.png"
+      },
+      {
+        "name": "YouTube Music",
+        "url": "https://music.youtube.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/youtubemusic.png"
+      },
+      {
+        "name": "SoundCloud",
+        "url": "https://soundcloud.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/soundcloud.png"
+      },
+      {
+        "name": "Apple Music",
+        "url": "https://music.apple.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/applemusic.png"
+      },
+      {
+        "name": "Fizy",
+        "url": "https://fizy.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/fizy.png"
+      },
+      {
+        "name": "Tidal",
+        "url": "https://tidal.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/tidal.png"
+      }
+    ]
+  },
+  {
+    "name": "Teknoloji",
+    "links": [
+      {
+        "name": "Webtekno",
+        "url": "https://www.webtekno.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/webtekno.png"
+      },
+      {
+        "name": "ShiftDelete",
+        "url": "https://www.shiftdelete.net",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/shiftdelete.png"
+      },
+      {
+        "name": "Technopat",
+        "url": "https://www.technopat.net",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/technopat.png"
+      },
+      {
+        "name": "Chip",
+        "url": "https://www.chip.com.tr",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/chip.png"
+      },
+      {
+        "name": "Tom's Hardware",
+        "url": "https://www.tomshardware.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/tomshardware.png"
+      },
+      {
+        "name": "Engadget",
+        "url": "https://www.engadget.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/engadget.png"
+      },
+      {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/techcrunch.png"
+      },
+      {
+        "name": "Gizmodo",
+        "url": "https://gizmodo.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/gizmodo.png"
+      },
+      {
+        "name": "The Verge",
+        "url": "https://www.theverge.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/verge.png"
+      },
+      {
+        "name": "Ars Technica",
+        "url": "https://arstechnica.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/arstechnica.png"
+      }
+    ]
+  },
+  {
+    "name": "Eğitim",
+    "links": [
+      {
+        "name": "Khan Academy",
+        "url": "https://www.khanacademy.org",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/khan.png"
+      },
+      {
+        "name": "TED",
+        "url": "https://www.ted.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/ted.png"
+      },
+      {
+        "name": "Coursera",
+        "url": "https://www.coursera.org",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/coursera.png"
+      },
+      {
+        "name": "edX",
+        "url": "https://www.edx.org",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/edx.png"
+      },
+      {
+        "name": "Udemy",
+        "url": "https://www.udemy.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/udemy.png"
+      },
+      {
+        "name": "AkademikLink",
+        "url": "https://akademiklink.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/akademiklink.png"
+      },
+      {
+        "name": "Alison",
+        "url": "https://alison.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/alison.png"
+      },
+      {
+        "name": "OpenLearn",
+        "url": "https://www.open.edu/openlearn/",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/openlearn.png"
+      },
+      {
+        "name": "Skillshare",
+        "url": "https://www.skillshare.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/skillshare.png"
+      },
+      {
+        "name": "FutureLearn",
+        "url": "https://www.futurelearn.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/futurelearn.png"
+      }
+    ]
+  },
+  {
+    "name": "Belgesel",
+    "links": [
+      {
+        "name": "National Geographic",
+        "url": "https://www.nationalgeographic.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/natgeo.png"
+      },
+      {
+        "name": "Discovery",
+        "url": "https://www.discovery.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/discovery.png"
+      },
+      {
+        "name": "BBC Earth",
+        "url": "https://www.bbcearth.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/bbcearth.png"
+      },
+      {
+        "name": "Smithsonian",
+        "url": "https://www.smithsonianchannel.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/smithsonian.png"
+      },
+      {
+        "name": "CuriosityStream",
+        "url": "https://curiositystream.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/curiosity.png"
+      },
+      {
+        "name": "PBS",
+        "url": "https://www.pbs.org",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/pbs.png"
+      },
+      {
+        "name": "DW Documentary",
+        "url": "https://www.youtube.com/c/DWDocumentary",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/dwdoc.png"
+      },
+      {
+        "name": "Netflix Belgesel",
+        "url": "https://www.netflix.com/browse/genre/6839",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/netflix.png"
+      },
+      {
+        "name": "History Channel",
+        "url": "https://www.history.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/history.png"
+      },
+      {
+        "name": "Animal Planet",
+        "url": "https://www.animalplanet.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/animalplanet.png"
+      }
+    ]
+  }
+]
