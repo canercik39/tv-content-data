@@ -1,34 +1,39 @@
 {
-  "categories": {
-    "Belgesel": [
-      {
-        "title": "Doğanın Gücü",
-        "description": "Doğal afetlerin bilimsel yönü.",
-        "studio": "National Geographic",
-        "videoUrl": "https://www.example.com/videos/nature1.mp4",
-        "cardImageUrl": "https://www.example.com/images/nature1.jpg",
-        "backgroundImageUrl": "https://www.example.com/images/bg_nature1.jpg"
-      }
-    ],
-    "Spor": [
-      {
-        "title": "Futbolun Tarihi",
-        "description": "Futbolun geçmişten bugüne evrimi.",
-        "studio": "FIFA",
-        "videoUrl": "https://www.example.com/videos/soccer1.mp4",
-        "cardImageUrl": "https://www.example.com/images/soccer1.jpg",
-        "backgroundImageUrl": "https://www.example.com/images/bg_soccer1.jpg"
-      }
-    ],
-    "Müzik": [
-      {
-        "title": "Cazın Altın Çağı",
-        "description": "20. yüzyılın efsanevi caz müzisyenleri.",
-        "studio": "JazzTV",
-        "videoUrl": "https://www.example.com/videos/jazz1.mp4",
-        "cardImageUrl": "https://www.example.com/images/jazz1.jpg",
-        "backgroundImageUrl": "https://www.example.com/images/bg_jazz1.jpg"
-      }
-    ]
-  }
+  "categories": [
+    {
+      "title": "Belgesel",
+      "videos": [
+        {
+          "title": "Yaban Hayatı",
+          "videoUrl": "https://www.example.com/videos/wildlife.mp4",
+          "thumbnailUrl": "https://www.example.com/thumbnails/wildlife.jpg"
+        },
+        {
+          "title": "Okyanus Derinlikleri",
+          "videoUrl": "https://www.example.com/videos/ocean.mp4",
+          "thumbnailUrl": "https://www.example.com/thumbnails/ocean.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Spor",
+      "videos": [
+        {
+          "title": "Futbol Efsaneleri",
+          "videoUrl": "https://www.example.com/videos/football.mp4",
+          "thumbnailUrl": "https://www.example.com/thumbnails/football.jpg"
+        }
+      ]
+    },
+    {
+      "title": "Müzik",
+      "videos": [
+        {
+          "title": "Klasik Konser",
+          "videoUrl": "https://www.example.com/videos/classic.mp4",
+          "thumbnailUrl": "https://www.example.com/thumbnails/classic.jpg"
+        }
+      ]
+    }
+  ]
 }
