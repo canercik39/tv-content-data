@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Şarkı 1",
+    "posterUrl": "https://placekitten.com/400/200",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4"
+  },
+  {
+    "title": "Şarkı 2",
+    "posterUrl": "https://placekitten.com/401/200",
+    "videoUrl": "https://www.w3schools.com/html/movie.mp4"
+  }
+]
