@@ -2,49 +2,37 @@
   "categories": [
     {
       "title": "Belgesel",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Documentary_icon.png/600px-Documentary_icon.png",
       "videos": [
         {
-          "title": "Doğa Belgeseli",
+          "title": "Doğanın Gücü",
+          "description": "Yaban hayatın keşfi",
           "videoUrl": "https://www.example.com/videos/doga.mp4",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Nature_photo.jpg/640px-Nature_photo.jpg"
-        },
-        {
-          "title": "Uzay Belgeseli",
-          "videoUrl": "https://www.example.com/videos/uzay.mp4",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Space_Telescope.jpg/640px-Space_Telescope.jpg"
+          "backgroundImageUrl": "https://www.example.com/images/doga_bg.jpg",
+          "cardImageUrl": "https://www.example.com/images/doga_card.jpg"
         }
       ]
     },
     {
       "title": "Spor",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Sport_icon.png/600px-Sport_icon.png",
       "videos": [
         {
-          "title": "Futbol Maçı Özeti",
+          "title": "Futbolun Tarihi",
+          "description": "Futbolun gelişimi ve efsaneleri",
           "videoUrl": "https://www.example.com/videos/futbol.mp4",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Soccer_game.jpg/640px-Soccer_game.jpg"
-        },
-        {
-          "title": "Basketbol Turnuvası",
-          "videoUrl": "https://www.example.com/videos/basketbol.mp4",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Basketball_match.jpg/640px-Basketball_match.jpg"
+          "backgroundImageUrl": "https://www.example.com/images/futbol_bg.jpg",
+          "cardImageUrl": "https://www.example.com/images/futbol_card.jpg"
         }
       ]
     },
     {
       "title": "Müzik",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Music_note_icon.png/600px-Music_note_icon.png",
       "videos": [
         {
-          "title": "Klasik Müzik Konseri",
-          "videoUrl": "https://www.example.com/videos/klasik.mp4",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Orchestra.jpg/640px-Orchestra.jpg"
-        },
-        {
-          "title": "Rock Konseri",
-          "videoUrl": "https://www.example.com/videos/rock.mp4",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Rock_band.jpg/640px-Rock_band.jpg"
+          "title": "Caz Gecesi",
+          "description": "Caz müziğinin kökenleri",
+          "videoUrl": "https://www.example.com/videos/caz.mp4",
+          "backgroundImageUrl": "https://www.example.com/images/caz_bg.jpg",
+          "cardImageUrl": "https://www.example.com/images/caz_card.jpg"
         }
       ]
     }
