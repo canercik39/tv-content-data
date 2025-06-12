@@ -1,47 +1,102 @@
 {
-  "videoCategories": [
+  "categories": [
     {
-      "title": "Eğitim",
+      "name": "Belgesel",
       "videos": [
         {
-          "title": "Matematik Dersi",
-          "videoUrl": "https://3s.vaginke.click/content/1080/41928.mp4",
-          "posterUrl": "http://vaginke.me/content/screens/41928_screen.jpg"
-        },
-        {
-          "title": "Fizik Dersi",
-          "videoUrl": "https://s1.cdngu.top/content/1080/44097.mp4",
-          "posterUrl": "https://pornobriz.com/content/screen/77/44097_preview.jpg"
+          "title": "Vahşi Yaşam",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+          "poster": "https://via.placeholder.com/320x180.png?text=Belgesel+1"
         }
       ]
     },
     {
-      "title": "Spor",
+      "name": "Spor",
       "videos": [
         {
-          "title": "Futbol Teknikleri",
-          "videoUrl": "https://s1.cdngu.top/content/1080/44270.mp4",
-          "posterUrl": "https://pornobriz.com/content/screen/77/44270_preview.jpg"
-        },
-        {
-          "title": "Basketbol Antrenmanı",
-          "videoUrl": "https://s1.cdngu.top/content/1080/43825.mp4",
-          "posterUrl": "https://pornobriz.com/content/screen/77/43825_preview.jpg"
+          "title": "Futbol Özetleri",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+          "poster": "https://via.placeholder.com/320x180.png?text=Spor+1"
         }
       ]
     },
     {
-      "title": "Müzik",
+      "name": "Müzik",
       "videos": [
         {
-          "title": "Emma Rosie",
-          "videoUrl": "https://s1.cdngu.top/content/1080/45644.mp4",
-          "posterUrl": "https://pornobriz.com/content/screen/77/45644_preview.jpg"
-        },
+          "title": "Rock Konseri",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+          "poster": "https://via.placeholder.com/320x180.png?text=M%C3%BCzik+1"
+        }
+      ]
+    },
+    {
+      "name": "Haber",
+      "videos": [
         {
-          "title": "İTSPORN-KARIŞIK",
-          "videoUrl": "https://cdn.its.porn/hls/sd/5000/122000/122752/122752_vs_720.mp4/index-v1-a1.m3u8",
-          "posterUrl": "https://img.itsthumb.com/contents/videos_screenshots/122000/122752/preview.jpg"
+          "title": "Günün Özeti",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+          "poster": "https://via.placeholder.com/320x180.png?text=Haber+1"
+        }
+      ]
+    },
+    {
+      "name": "Çizgi Film",
+      "videos": [
+        {
+          "title": "Çocuk Şarkıları",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "poster": "https://via.placeholder.com/320x180.png?text=%C3%87izgi+1"
+        }
+      ]
+    },
+    {
+      "name": "Eğitim",
+      "videos": [
+        {
+          "title": "Tarih Belgeseli",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
+          "poster": "https://via.placeholder.com/320x180.png?text=E%C4%9Fitim+1"
+        }
+      ]
+    },
+    {
+      "name": "Teknoloji",
+      "videos": [
+        {
+          "title": "Yeni Ürünler",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
+          "poster": "https://via.placeholder.com/320x180.png?text=Teknoloji+1"
+        }
+      ]
+    },
+    {
+      "name": "Komedi",
+      "videos": [
+        {
+          "title": "Stand-up",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
+          "poster": "https://via.placeholder.com/320x180.png?text=Komedi+1"
+        }
+      ]
+    },
+    {
+      "name": "Drama",
+      "videos": [
+        {
+          "title": "Kısa Film",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
+          "poster": "https://via.placeholder.com/320x180.png?text=Drama+1"
+        }
+      ]
+    },
+    {
+      "name": "Aksiyon",
+      "videos": [
+        {
+          "title": "Aksiyon Sahnesi",
+          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "poster": "https://via.placeholder.com/320x180.png?text=Aksiyon+1"
         }
       ]
     }
