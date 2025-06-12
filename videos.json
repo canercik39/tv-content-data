@@ -1,102 +1,117 @@
 {
   "categories": [
     {
-      "name": "Belgesel",
+      "title": "Belgesel",
+      "imageUrl": "https://via.placeholder.com/300x200.png?text=Belgesel",
       "videos": [
         {
-          "title": "Vahşi Yaşam",
-          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-          "poster": "https://via.placeholder.com/320x180.png?text=Belgesel+1"
+          "title": "Doğanın Gücü",
+          "videoUrl": "https://example.com/videos/nature.mp4",
+          "posterUrl": "https://via.placeholder.com/300x200.png?text=Doğa"
+        },
+        {
+          "title": "Uzayın Derinlikleri",
+          "videoUrl": "https://example.com/videos/space.mp4",
+          "posterUrl": "https://via.placeholder.com/300x200.png?text=Uzay"
         }
       ]
     },
     {
-      "name": "Spor",
+      "title": "Spor",
+      "imageUrl": "https://via.placeholder.com/300x200.png?text=Spor",
       "videos": [
         {
-          "title": "Futbol Özetleri",
-          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
-          "poster": "https://via.placeholder.com/320x180.png?text=Spor+1"
+          "title": "Final Maçı",
+          "videoUrl": "https://example.com/videos/final.mp4",
+          "posterUrl": "https://via.placeholder.com/300x200.png?text=Final"
         }
       ]
     },
     {
-      "name": "Müzik",
+      "title": "Müzik",
+      "imageUrl": "https://via.placeholder.com/300x200.png?text=Müzik",
       "videos": [
         {
           "title": "Rock Konseri",
-          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
-          "poster": "https://via.placeholder.com/320x180.png?text=M%C3%BCzik+1"
+          "videoUrl": "https://example.com/videos/rock.mp4",
+          "posterUrl": "https://via.placeholder.com/300x200.png?text=Rock"
         }
       ]
     },
     {
-      "name": "Haber",
+      "title": "Haber",
+      "imageUrl": "https://via.placeholder.com/300x200.png?text=Haber",
       "videos": [
         {
-          "title": "Günün Özeti",
-          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-          "poster": "https://via.placeholder.com/320x180.png?text=Haber+1"
+          "title": "Günlük Bülten",
+          "videoUrl": "https://example.com/videos/news.mp4",
+          "posterUrl": "https://via.placeholder.com/300x200.png?text=Haber"
         }
       ]
     },
     {
-      "name": "Çizgi Film",
+      "title": "Komedi",
+      "imageUrl": "https://via.placeholder.com/300x200.png?text=Komedi",
       "videos": [
         {
-          "title": "Çocuk Şarkıları",
-          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-          "poster": "https://via.placeholder.com/320x180.png?text=%C3%87izgi+1"
+          "title": "Stand-Up Gösterisi",
+          "videoUrl": "https://example.com/videos/comedy.mp4",
+          "posterUrl": "https://via.placeholder.com/300x200.png?text=Komedi"
         }
       ]
     },
     {
-      "name": "Eğitim",
+      "title": "Yemek",
+      "imageUrl": "https://via.placeholder.com/300x200.png?text=Yemek",
       "videos": [
         {
-          "title": "Tarih Belgeseli",
-          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/SubaruOutbackOnStreetAndDirt.mp4",
-          "poster": "https://via.placeholder.com/320x180.png?text=E%C4%9Fitim+1"
+          "title": "Pizza Tarifi",
+          "videoUrl": "https://example.com/videos/pizza.mp4",
+          "posterUrl": "https://via.placeholder.com/300x200.png?text=Pizza"
         }
       ]
     },
     {
-      "name": "Teknoloji",
+      "title": "Teknoloji",
+      "imageUrl": "https://via.placeholder.com/300x200.png?text=Teknoloji",
       "videos": [
         {
-          "title": "Yeni Ürünler",
-          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
-          "poster": "https://via.placeholder.com/320x180.png?text=Teknoloji+1"
+          "title": "Yeni Telefonlar",
+          "videoUrl": "https://example.com/videos/phones.mp4",
+          "posterUrl": "https://via.placeholder.com/300x200.png?text=Telefon"
         }
       ]
     },
     {
-      "name": "Komedi",
+      "title": "Oyun",
+      "imageUrl": "https://via.placeholder.com/300x200.png?text=Oyun",
       "videos": [
         {
-          "title": "Stand-up",
-          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WeAreGoingOnBullrun.mp4",
-          "poster": "https://via.placeholder.com/320x180.png?text=Komedi+1"
+          "title": "Oyun İncelemesi",
+          "videoUrl": "https://example.com/videos/game.mp4",
+          "posterUrl": "https://via.placeholder.com/300x200.png?text=Oyun"
         }
       ]
     },
     {
-      "name": "Drama",
+      "title": "Gezi",
+      "imageUrl": "https://via.placeholder.com/300x200.png?text=Gezi",
       "videos": [
         {
-          "title": "Kısa Film",
-          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/WhatCarCanYouGetForAGrand.mp4",
-          "poster": "https://via.placeholder.com/320x180.png?text=Drama+1"
+          "title": "Paris Turu",
+          "videoUrl": "https://example.com/videos/paris.mp4",
+          "posterUrl": "https://via.placeholder.com/300x200.png?text=Paris"
         }
       ]
     },
     {
-      "name": "Aksiyon",
+      "title": "Eğitim",
+      "imageUrl": "https://via.placeholder.com/300x200.png?text=Eğitim",
       "videos": [
         {
-          "title": "Aksiyon Sahnesi",
-          "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
-          "poster": "https://via.placeholder.com/320x180.png?text=Aksiyon+1"
+          "title": "Matematik Dersi",
+          "videoUrl": "https://example.com/videos/math.mp4",
+          "posterUrl": "https://via.placeholder.com/300x200.png?text=Matematik"
         }
       ]
     }
