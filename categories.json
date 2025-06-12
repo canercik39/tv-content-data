@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "title": "Haber",
+      "type": "web",
+      "items": [
+        { "title": "TRT Haber", "url": "https://www.trthaber.com" },
+        { "title": "NTV", "url": "https://www.ntv.com.tr" }
+      ]
+    },
+    {
+      "title": "Videolar",
+      "type": "video",
+      "subcategories": [
+        {
+          "title": "Müzik Videoları",
+          "jsonUrl": "https://raw.githubusercontent.com/.../music_videos.json"
+        }
+      ]
+    }
+  ]
+}
