@@ -2,118 +2,16 @@
   "categories": [
     {
       "title": "Belgesel",
-      "imageUrl": "https://via.placeholder.com/300x200.png?text=Belgesel",
+      "imageUrl": "https://example.com/belgesel.jpg",
       "videos": [
         {
-          "title": "Doğanın Gücü",
-          "videoUrl": "https://example.com/videos/nature.mp4",
-          "posterUrl": "https://via.placeholder.com/300x200.png?text=Doğa"
-        },
-        {
-          "title": "Uzayın Derinlikleri",
-          "videoUrl": "https://example.com/videos/space.mp4",
-          "posterUrl": "https://via.placeholder.com/300x200.png?text=Uzay"
+          "title": "Doğa Belgeseli",
+          "videoUrl": "https://example.com/doga.mp4",
+          "imageUrl": "https://example.com/thumb.jpg"
         }
       ]
     },
-    {
-      "title": "Spor",
-      "imageUrl": "https://via.placeholder.com/300x200.png?text=Spor",
-      "videos": [
-        {
-          "title": "Final Maçı",
-          "videoUrl": "https://example.com/videos/final.mp4",
-          "posterUrl": "https://via.placeholder.com/300x200.png?text=Final"
-        }
-      ]
-    },
-    {
-      "title": "Müzik",
-      "imageUrl": "https://via.placeholder.com/300x200.png?text=Müzik",
-      "videos": [
-        {
-          "title": "Rock Konseri",
-          "videoUrl": "https://example.com/videos/rock.mp4",
-          "posterUrl": "https://via.placeholder.com/300x200.png?text=Rock"
-        }
-      ]
-    },
-    {
-      "title": "Haber",
-      "imageUrl": "https://via.placeholder.com/300x200.png?text=Haber",
-      "videos": [
-        {
-          "title": "Günlük Bülten",
-          "videoUrl": "https://example.com/videos/news.mp4",
-          "posterUrl": "https://via.placeholder.com/300x200.png?text=Haber"
-        }
-      ]
-    },
-    {
-      "title": "Komedi",
-      "imageUrl": "https://via.placeholder.com/300x200.png?text=Komedi",
-      "videos": [
-        {
-          "title": "Stand-Up Gösterisi",
-          "videoUrl": "https://example.com/videos/comedy.mp4",
-          "posterUrl": "https://via.placeholder.com/300x200.png?text=Komedi"
-        }
-      ]
-    },
-    {
-      "title": "Yemek",
-      "imageUrl": "https://via.placeholder.com/300x200.png?text=Yemek",
-      "videos": [
-        {
-          "title": "Pizza Tarifi",
-          "videoUrl": "https://example.com/videos/pizza.mp4",
-          "posterUrl": "https://via.placeholder.com/300x200.png?text=Pizza"
-        }
-      ]
-    },
-    {
-      "title": "Teknoloji",
-      "imageUrl": "https://via.placeholder.com/300x200.png?text=Teknoloji",
-      "videos": [
-        {
-          "title": "Yeni Telefonlar",
-          "videoUrl": "https://example.com/videos/phones.mp4",
-          "posterUrl": "https://via.placeholder.com/300x200.png?text=Telefon"
-        }
-      ]
-    },
-    {
-      "title": "Oyun",
-      "imageUrl": "https://via.placeholder.com/300x200.png?text=Oyun",
-      "videos": [
-        {
-          "title": "Oyun İncelemesi",
-          "videoUrl": "https://example.com/videos/game.mp4",
-          "posterUrl": "https://via.placeholder.com/300x200.png?text=Oyun"
-        }
-      ]
-    },
-    {
-      "title": "Gezi",
-      "imageUrl": "https://via.placeholder.com/300x200.png?text=Gezi",
-      "videos": [
-        {
-          "title": "Paris Turu",
-          "videoUrl": "https://example.com/videos/paris.mp4",
-          "posterUrl": "https://via.placeholder.com/300x200.png?text=Paris"
-        }
-      ]
-    },
-    {
-      "title": "Eğitim",
-      "imageUrl": "https://via.placeholder.com/300x200.png?text=Eğitim",
-      "videos": [
-        {
-          "title": "Matematik Dersi",
-          "videoUrl": "https://example.com/videos/math.mp4",
-          "posterUrl": "https://via.placeholder.com/300x200.png?text=Matematik"
-        }
-      ]
-    }
+    ...
   ]
 }
+
