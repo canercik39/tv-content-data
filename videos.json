@@ -1,39 +1,24 @@
-{
-  "categories": [
-    {
-      "title": "Belgesel",
-      "videos": [
-        {
-          "title": "Yaban Hayatı",
-          "videoUrl": "https://www.example.com/videos/wildlife.mp4",
-          "thumbnailUrl": "https://www.example.com/thumbnails/wildlife.jpg"
-        },
-        {
-          "title": "Okyanus Derinlikleri",
-          "videoUrl": "https://www.example.com/videos/ocean.mp4",
-          "thumbnailUrl": "https://www.example.com/thumbnails/ocean.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Spor",
-      "videos": [
-        {
-          "title": "Futbol Efsaneleri",
-          "videoUrl": "https://www.example.com/videos/football.mp4",
-          "thumbnailUrl": "https://www.example.com/thumbnails/football.jpg"
-        }
-      ]
-    },
-    {
-      "title": "Müzik",
-      "videos": [
-        {
-          "title": "Klasik Konser",
-          "videoUrl": "https://www.example.com/videos/classic.mp4",
-          "thumbnailUrl": "https://www.example.com/thumbnails/classic.jpg"
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "name": "Komik",
+    "videos": [
+      {
+        "title": "Kedi Çıldırdı",
+        "description": "Kedi lazerle oynarken yerle bir oluyor.",
+        "posterUrl": "https://example.com/poster1.jpg",
+        "videoUrl": "https://example.com/video1.mp4"
+      }
+    ]
+  },
+  {
+    "name": "Aksiyon",
+    "videos": [
+      {
+        "title": "Patlama",
+        "description": "Filmdeki büyük patlama sahnesi.",
+        "posterUrl": "https://example.com/poster2.jpg",
+        "videoUrl": "https://example.com/video2.mp4"
+      }
+    ]
+  }
+]
