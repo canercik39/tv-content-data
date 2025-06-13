@@ -329,59 +329,11 @@
       }
     ]
   },
+  ...
   {
-    "name": "KARIŞIK",
+    "name": "Videolar",
     "links": [
-      {
-        "name": "Vjav",
-        "url": "https://xfeed.com",
-        "iconUrl": "https://sxf3d.cachefly.net/i/logo.png"
-      },
-      {
-        "name": "Missav",
-        "url": "https://missav.ws",
-        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/missav.png"
-      },
-      {
-        "name": "Supjav",
-        "url": "https://supjav.com",
-        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/supjav.png"
-      },
-      {
-        "name": "Javfinder",
-        "url": "https://javfinder.ai",
-        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/javfinder.png"
-      },
-      {
-        "name": "Javguru",
-        "url": "https://jav.guru",
-        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/javguru.png"
-      },
-      {
-        "name": "Kissjav",
-        "url": "https://kissjav.com",
-        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/kissjav.png"
-      },
-      {
-        "name": "7mmtv",
-        "url": "https://7mmtv.sx",
-        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/7mmtv.png"
-      },
-      {
-        "name": "Chinababe",
-        "url": "https://ww2.chinababe.net",
-        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/chinababe.png"
-      },
-      {
-        "name": "Javbraze",
-        "url": "https://javbraze.com",
-        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/javbraze.png"
-      },
-      {
-        "name": "Javbest",
-        "url": "https://javbest.tv",
-        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/javbest.png"
-      }
+      { "title": "Videolar", "url": "", "imageUrl": "https://..." }
     ]
   }
 ]
