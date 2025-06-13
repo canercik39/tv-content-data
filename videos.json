@@ -1,24 +1,25 @@
 [
   {
-    "name": "Komik",
+    "category": "Belgesel",
     "videos": [
       {
-        "title": "Kedi Çıldırdı",
-        "description": "Kedi lazerle oynarken yerle bir oluyor.",
-        "posterUrl": "https://example.com/poster1.jpg",
-        "videoUrl": "https://example.com/video1.mp4"
+        "title": "Doğa Belgeseli",
+        "description": "Yaban hayatın derinlikleri.",
+        "videoUrl": "https://www.example.com/doga.mp4",
+        "cardImageUrl": "https://www.example.com/poster1.jpg"
       }
     ]
   },
   {
-    "name": "Aksiyon",
+    "category": "Spor",
     "videos": [
       {
-        "title": "Patlama",
-        "description": "Filmdeki büyük patlama sahnesi.",
-        "posterUrl": "https://example.com/poster2.jpg",
-        "videoUrl": "https://example.com/video2.mp4"
+        "title": "Futbol Özetleri",
+        "description": "En iyi goller.",
+        "videoUrl": "https://www.example.com/futbol.mp4",
+        "cardImageUrl": "https://www.example.com/poster2.jpg"
       }
     ]
   }
 ]
+
