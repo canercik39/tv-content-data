@@ -5,13 +5,13 @@
       {
         "title": "Müzik Video 1",
         "description": "Harika bir müzik videosu",
-        "videoUrl": "https://cdn.rock.porn/hls/sd/5000/61000/61414/61414_1080p.mp4/index-v1-a1.m3u8",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
         "cardImageUrl": "https://img.rock.porn/contents/videos_sources/61000/61414/screenshots/1.jpg"
       },
       {
         "title": "Müzik Video 2",
         "description": "İkinci müzik videosu",
-        "videoUrl": "https://3s.vaginke.click/content/1080/43923.mp4",
+        "videoUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
         "cardImageUrl": "http://vaginke.me/content/screens/43923_screen.jpg"
       }
     ]
