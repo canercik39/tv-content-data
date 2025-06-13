@@ -1,25 +1,43 @@
 [
   {
-    "category": "Belgesel",
+    "name": "Müzik",
     "videos": [
       {
-        "title": "Doğa Belgeseli",
-        "description": "Yaban hayatın derinlikleri.",
-        "videoUrl": "https://www.example.com/doga.mp4",
-        "cardImageUrl": "https://www.example.com/poster1.jpg"
+        "title": "Müzik Video 1",
+        "description": "Harika bir müzik videosu",
+        "videoUrl": "https://cdn.rock.porn/hls/sd/5000/61000/61414/61414_1080p.mp4/index-v1-a1.m3u8",
+        "cardImageUrl": "https://img.rock.porn/contents/videos_sources/61000/61414/screenshots/1.jpg"
+      },
+      {
+        "title": "Müzik Video 2",
+        "description": "İkinci müzik videosu",
+        "videoUrl": "https://3s.vaginke.click/content/1080/43923.mp4",
+        "cardImageUrl": "http://vaginke.me/content/screens/43923_screen.jpg"
       }
     ]
   },
   {
-    "category": "Spor",
+    "name": "Spor",
     "videos": [
       {
-        "title": "Futbol Özetleri",
-        "description": "En iyi goller.",
-        "videoUrl": "https://www.example.com/futbol.mp4",
-        "cardImageUrl": "https://www.example.com/poster2.jpg"
+        "title": "Spor Video 1",
+        "description": "Heyecanlı bir maç",
+        "videoUrl": "https://www.example.com/sport1.mp4",
+        "cardImageUrl": "https://www.example.com/sportthumb1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Belgesel",
+    "videos": [
+      {
+        "title": "Belgesel 1",
+        "description": "Doğa hakkında bilgi",
+        "videoUrl": "https://www.example.com/doc1.mp4",
+        "cardImageUrl": "https://www.example.com/docthumb1.jpg"
       }
     ]
   }
 ]
+
 
