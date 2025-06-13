@@ -1,48 +1,32 @@
-{
-  "categories": [
-    {
-      "title": "Haber",
-      "type": "web",
-      "items": [
-        {
-          "title": "NTV",
-          "url": "https://www.ntv.com.tr",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/NTV_logo_2022.svg/512px-NTV_logo_2022.svg.png"
-        },
-        {
-          "title": "TRT Haber",
-          "url": "https://www.trthaber.com",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/TRT_Haber_logo.svg/512px-TRT_Haber_logo.svg.png"
-        }
-      ]
-    },
-    {
-      "title": "Spor",
-      "type": "web",
-      "items": [
-        {
-          "title": "Sporx",
-          "url": "https://www.sporx.com",
-          "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/d/dc/Sporx_logo.png/320px-Sporx_logo.png"
-        }
-      ]
-    },
-    {
-      "title": "Videolar",
-      "type": "video",
-      "subcategories": [
-        {
-          "title": "Müzik Videoları",
-          "imageUrl": "https://cdn.pixabay.com/photo/2017/01/11/11/33/concert-1972994_960_720.jpg",
-          "videoUrlJson": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/music_videos.json"
-        },
-        {
-          "title": "Spor Videoları",
-          "imageUrl": "https://cdn.pixabay.com/photo/2016/03/27/21/16/basketball-1288013_960_720.jpg",
-          "videoUrlJson": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/sport_videos.json"
-        }
-      ]
-    }
-  ]
-}
-
+[
+  {
+    "category": "Haber",
+    "sites": [
+      {
+        "title": "NTV",
+        "url": "https://www.ntv.com.tr",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/NTV_Turkiye_logo.svg"
+      },
+      {
+        "title": "HaberTürk",
+        "url": "https://www.haberturk.com",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Habert%C3%BCrk_logo.svg"
+      }
+    ]
+  },
+  {
+    "category": "Spor",
+    "sites": [
+      {
+        "title": "TRT Spor",
+        "url": "https://www.trtspor.com.tr",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_Spor_logo_2019.svg"
+      },
+      {
+        "title": "Fotomaç",
+        "url": "https://www.fotomac.com.tr",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fotomac_logo.png"
+      }
+    ]
+  }
+]
