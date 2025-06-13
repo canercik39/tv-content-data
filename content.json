@@ -15,7 +15,6 @@
         "iconUrl": "https://example.com/icons/cnn.png",
         "categoryIndex": 0
       }
-      // ...8 tane daha
     ]
   },
   {
@@ -28,10 +27,8 @@
         "iconUrl": "https://example.com/icons/trtspor.png",
         "categoryIndex": 1
       }
-      // ...10 site
     ]
   },
-  // ... 4 kategori daha (Müzik, Belgesel vs.)
   {
     "name": "Videolar",
     "type": "video",
@@ -51,7 +48,7 @@
         "title": "Belgesel",
         "backgroundImageUrl": "https://example.com/images/belgesel.jpg"
       }
-      // ...toplam 10 alt kategori
+      
     ]
   }
 ]
