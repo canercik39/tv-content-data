@@ -1,43 +1,41 @@
-[
-  {
-    "name": "Müzik",
-    "videos": [
-      {
-        "title": "Müzik Video 1",
-        "description": "Harika bir müzik videosu",
-        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-        "cardImageUrl": "https://img.rock.porn/contents/videos_sources/61000/61414/screenshots/1.jpg"
-      },
-      {
-        "title": "Müzik Video 2",
-        "description": "İkinci müzik videosu",
-        "videoUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
-        "cardImageUrl": "http://vaginke.me/content/screens/43923_screen.jpg"
-      }
-    ]
-  },
-  {
-    "name": "Spor",
-    "videos": [
-      {
-        "title": "Spor Video 1",
-        "description": "Heyecanlı bir maç",
-        "videoUrl": "https://www.example.com/sport1.mp4",
-        "cardImageUrl": "https://www.example.com/sportthumb1.jpg"
-      }
-    ]
-  },
-  {
-    "name": "Belgesel",
-    "videos": [
-      {
-        "title": "Belgesel 1",
-        "description": "Doğa hakkında bilgi",
-        "videoUrl": "https://www.example.com/doc1.mp4",
-        "cardImageUrl": "https://www.example.com/docthumb1.jpg"
-      }
-    ]
-  }
-]
-
+{
+  "muzik": [
+    {
+      "id": "muzik1",
+      "title": "Rock Konseri",
+      "description": "Harika bir rock performansı",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+      "backgroundImageUrl": "https://example.com/thumbnails/rock.jpg",
+      "category": "muzik"
+    },
+    {
+      "id": "muzik2",
+      "title": "Jazz Gecesi",
+      "description": "Canlı jazz performansı",
+      "videoUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
+      "backgroundImageUrl": "https://example.com/thumbnails/jazz.jpg",
+      "category": "muzik"
+    }
+  ],
+  "spor": [
+    {
+      "id": "spor1",
+      "title": "Futbol Maçı",
+      "description": "Gollerle dolu bir derbi",
+      "videoUrl": "https://example.com/videos/futbol.mp4",
+      "backgroundImageUrl": "https://example.com/thumbnails/futbol.jpg",
+      "category": "spor"
+    }
+  ],
+  "belgesel": [
+    {
+      "id": "belgesel1",
+      "title": "Doğa ve Yaşam",
+      "description": "Yaban hayatına yolculuk",
+      "videoUrl": "https://example.com/videos/belgesel.mp4",
+      "backgroundImageUrl": "https://example.com/thumbnails/doga.jpg",
+      "category": "belgesel"
+    }
+  ]
+}
 
