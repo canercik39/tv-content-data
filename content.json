@@ -1,6 +1,6 @@
 [
   {
-    "category": "Amateur",
+    "name": "Amateur",
     "links": [
       {
         "title": "PORNHUB",
@@ -55,7 +55,7 @@
     ]
   },
   {
-    "category": "Premium",
+    "name": "Premium",
     "links": [
       {
         "title": "Eporner",
@@ -110,7 +110,7 @@
     ]
   },
   {
-    "title": "Onlyfans",
+    "name": "Onlyfans",
     "links": [
       {
         "title": "Nsfw247",
@@ -165,7 +165,7 @@
     ]
   },
   {
-    "title": "HENTAİ",
+    "name": "HENTAİ",
     "links": [
       {
         "title": "Hentaicity",
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "title": "SHEMALE",
+    "name": "SHEMALE",
     "links": [
       {
         "title": "Shemalez",
@@ -275,7 +275,7 @@
     ]
   },
   {
-    "title": "JAV",
+    "name": "JAV",
     "links": [
       {
         "title": "Vjav",
@@ -330,7 +330,7 @@
     ]
   },
   {
-    "title": "Videolar",
+    "name": "Videolar",
     "links": [
       { "title": "Videolar", "url": "", "imageUrl": "https://..." }
     ]
