@@ -5,7 +5,7 @@
       "title": "Big Buck Bunny",
       "description": "Efsane animasyon - müzik temalı",
       "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-      "backgroundImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "backgroundImageUrl": "https://bitmovin-a.akamaihd.net/content/sintel/poster.png",
       "category": "muzik"
     },
     {
@@ -23,7 +23,7 @@
       "title": "Tears of Steel",
       "description": "Aksiyon dolu bilim kurgu",
       "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-      "backgroundImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
+      "backgroundImageUrl": "https://bitmovin-a.akamaihd.net/content/sintel/poster.png",
       "category": "spor"
     }
   ],
@@ -33,7 +33,7 @@
       "title": "Elephants Dream",
       "description": "Soyut bir hikaye: Belgesel tadında",
       "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-      "backgroundImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+      "backgroundImageUrl": "https://bitmovin-a.akamaihd.net/content/sintel/poster.png",
       "category": "belgesel"
     }
   ]
