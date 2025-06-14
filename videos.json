@@ -1,30 +1,27 @@
 [
   {
-    "name": "Müzik",
+    "subcategory": "Müzik Videoları",
     "videos": [
       {
-        "title": "Lofi Beats",
-        "description": "Rahatlatıcı lofi müzik",
-        "videoUrl": "https://www.example.com/videos/lofi.mp4",
-        "thumbnailUrl": "https://www.example.com/thumbnails/lofi.jpg"
+        "title": "Tarkan - Şımarık",
+        "videoUrl": "https://www.example.com/videos/tarkan-simarik.mp4",
+        "imageUrl": "https://www.example.com/posters/tarkan.jpg"
       },
       {
-        "title": "Chillhop Essentials",
-        "description": "Chillhop mix",
-        "videoUrl": "https://www.example.com/videos/chillhop.mp4",
-        "thumbnailUrl": "https://www.example.com/thumbnails/chillhop.jpg"
+        "title": "Sezen Aksu - Hadi Bakalım",
+        "videoUrl": "https://3s.vaginke.click/content/1080/44257.mp4",
+        "imageUrl": "http://vaginke.me/content/screens/44257_screen.jpg"
       }
     ]
   },
   {
-    "name": "Spor",
+    "subcategory": "Spor Videoları",
     "videos": [
       {
-        "title": "Futbol En Güzel Goller",
-        "description": "2024'ün en iyi golleri",
-        "videoUrl": "https://www.example.com/videos/goals.mp4",
-        "thumbnailUrl": "https://www.example.com/thumbnails/goals.jpg"
-      }
-    ]
-  }
-]
+        "title": "Galatasaray - Fenerbahçe Maç Özeti",
+        "videoUrl": "https://www.example.com/videos/mac-ozet.mp4",
+        "imageUrl": "https://www.example.com/posters/gs-fb.jpg"
+      },
+      {
+        "title": "Messi Golleri",
+        "videoUrl": "https://www.example.com/videos/messi.m3u8
