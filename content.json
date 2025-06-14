@@ -1,55 +1,42 @@
 [
   {
     "name": "Haber",
-    "type": "web",
     "links": [
       {
-        "name": "NTV",
+        "title": "NTV",
         "url": "https://www.ntv.com.tr",
-        "iconUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
-        "categoryIndex": 0
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/f/fc/Ntv_yeni_logo.svg/2560px-Ntv_yeni_logo.svg.png"
       },
       {
-        "name": "CNN Türk",
+        "title": "CNN Türk",
         "url": "https://www.cnnturk.com",
-        "iconUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
-        "categoryIndex": 0
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/CNN_T%C3%BCrk_logo_2010.svg/2560px-CNN_T%C3%BCrk_logo_2010.svg.png"
       }
     ]
   },
   {
     "name": "Spor",
-    "type": "web",
     "links": [
       {
-        "name": "TRT Spor",
+        "title": "TRT Spor",
         "url": "https://www.trtspor.com.tr",
-        "iconUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
-        "categoryIndex": 1
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/3/38/TRT_Spor_logo_2019.svg"
+      }
+    ]
+  },
+  {
+    "name": "Müzik",
+    "links": [
+      {
+        "title": "PowerTürk",
+        "url": "https://www.powerturk.com",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/5/5d/Power_T%C3%BCrk_Logo.png"
       }
     ]
   },
   {
     "name": "Videolar",
-    "type": "video",
-    "videoCategories": [
-      {
-        "id": "muzik",
-        "title": "Müzik Videoları",
-        "backgroundImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
-      },
-      {
-        "id": "spor",
-        "title": "Spor Videoları",
-        "backgroundImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
-      },
-      {
-        "id": "belgesel",
-        "title": "Belgesel",
-        "backgroundImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
-      }
-      
-    ]
+    "links": []
   }
 ]
 
