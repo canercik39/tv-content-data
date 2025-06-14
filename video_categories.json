@@ -2,7 +2,7 @@
   {
     "title": "Spor",
     "imageUrl": "https://via.placeholder.com/300x200.png?text=Spor",
-    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/spor.json"
+    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/refs/heads/main/spor.json"
   },
   {
     "title": "Belgesel",
