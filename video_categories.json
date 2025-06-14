@@ -1,13 +1,12 @@
 [
   {
     "title": "Spor",
-    "imageUrl": "https://.../spor.png",
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Spor",
     "jsonUrl": "https://.../spor_videolar.json"
   },
   {
     "title": "Belgesel",
-    "imageUrl": "https://.../belgesel.png",
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Belgesel",
     "jsonUrl": "https://.../belgesel_videolar.json"
   }
-  // toplam 10 tane
 ]
