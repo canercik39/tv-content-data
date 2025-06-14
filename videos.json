@@ -1,14 +1,30 @@
-{
-  "videos": [
-    {
-      "title": "Müslüm Gürses - Hangimiz Sevmedik",
-      "videoUrl": "https://www.example.com/videos/hangimizsevmedik.mp4",
-      "imageUrl": "https://img.youtube.com/vi/kXYiU_JCYtU/maxresdefault.jpg"
-    },
-    {
-      "title": "Tarkan - Şımarık",
-      "videoUrl": "https://www.example.com/videos/simarik.m3u8",
-      "imageUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
-    }
-  ]
-}
+[
+  {
+    "name": "Müzik",
+    "videos": [
+      {
+        "title": "Lofi Beats",
+        "description": "Rahatlatıcı lofi müzik",
+        "videoUrl": "https://www.example.com/videos/lofi.mp4",
+        "thumbnailUrl": "https://www.example.com/thumbnails/lofi.jpg"
+      },
+      {
+        "title": "Chillhop Essentials",
+        "description": "Chillhop mix",
+        "videoUrl": "https://www.example.com/videos/chillhop.mp4",
+        "thumbnailUrl": "https://www.example.com/thumbnails/chillhop.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Spor",
+    "videos": [
+      {
+        "title": "Futbol En Güzel Goller",
+        "description": "2024'ün en iyi golleri",
+        "videoUrl": "https://www.example.com/videos/goals.mp4",
+        "thumbnailUrl": "https://www.example.com/thumbnails/goals.jpg"
+      }
+    ]
+  }
+]
