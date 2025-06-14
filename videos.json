@@ -3,14 +3,16 @@
     "subcategory": "Müzik Videoları",
     "videos": [
       {
-        "title": "Tarkan - Şımarık",
-        "videoUrl": "https://www.example.com/videos/tarkan-simarik.mp4",
-        "imageUrl": "https://www.example.com/posters/tarkan.jpg"
+        "title": "Beyonce - Halo",
+        "description": "Popüler bir müzik videosu.",
+        "imageUrl": "https://i.imgur.com/Zc5wR9l.jpg",
+        "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
       },
       {
-        "title": "Sezen Aksu - Hadi Bakalım",
-        "videoUrl": "https://3s.vaginke.click/content/1080/44257.mp4",
-        "imageUrl": "http://vaginke.me/content/screens/44257_screen.jpg"
+        "title": "Daft Punk - Get Lucky",
+        "description": "Elektronik müzik klasiği.",
+        "imageUrl": "https://i.imgur.com/lVVWZ7r.jpg",
+        "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
       }
     ]
   },
@@ -18,10 +20,28 @@
     "subcategory": "Spor Videoları",
     "videos": [
       {
-        "title": "Galatasaray - Fenerbahçe Maç Özeti",
-        "videoUrl": "https://www.example.com/videos/mac-ozet.mp4",
-        "imageUrl": "https://www.example.com/posters/gs-fb.jpg"
+        "title": "Messi - En Güzel Goller",
+        "description": "Tarihin en iyilerinden.",
+        "imageUrl": "https://i.imgur.com/8MKLhA9.jpg",
+        "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
       },
       {
-        "title": "Messi Golleri",
-        "videoUrl": "https://www.example.com/videos/messi.m3u8
+        "title": "NBA En İyi Hareketler",
+        "description": "Smaçlar ve bloklar.",
+        "imageUrl": "https://i.imgur.com/GzWZg0s.jpg",
+        "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4"
+      }
+    ]
+  },
+  {
+    "subcategory": "Belgesel",
+    "videos": [
+      {
+        "title": "Doğa Belgeseli",
+        "description": "Vahşi yaşam belgeseli.",
+        "imageUrl": "https://i.imgur.com/A8eQsll.jpg",
+        "videoUrl": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4"
+      }
+    ]
+  }
+]
