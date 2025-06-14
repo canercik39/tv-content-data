@@ -1,12 +1,12 @@
 [
     {
-      "category": "muzik"
-      "id": "muzik1",
+      
+      "id": "muzik",
       "title": "Big Buck Bunny",
       "description": "Efsane animasyon - müzik temalı",
       "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "backgroundImageUrl": "https://bitmovin-a.akamaihd.net/content/sintel/poster.png",
-      
+      "category": "muzik"
     },
     {
       "id": "muzik2",
