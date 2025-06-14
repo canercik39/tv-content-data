@@ -6,13 +6,13 @@
       {
         "name": "NTV",
         "url": "https://www.ntv.com.tr",
-        "iconUrl": "https://example.com/icons/ntv.png",
+        "iconUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
         "categoryIndex": 0
       },
       {
         "name": "CNN Türk",
         "url": "https://www.cnnturk.com",
-        "iconUrl": "https://example.com/icons/cnn.png",
+        "iconUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
         "categoryIndex": 0
       }
     ]
@@ -24,7 +24,7 @@
       {
         "name": "TRT Spor",
         "url": "https://www.trtspor.com.tr",
-        "iconUrl": "https://example.com/icons/trtspor.png",
+        "iconUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
         "categoryIndex": 1
       }
     ]
@@ -36,17 +36,17 @@
       {
         "id": "muzik",
         "title": "Müzik Videoları",
-        "backgroundImageUrl": "https://example.com/images/muzik.jpg"
+        "backgroundImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
       },
       {
         "id": "spor",
         "title": "Spor Videoları",
-        "backgroundImageUrl": "https://example.com/images/spor.jpg"
+        "backgroundImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
       },
       {
         "id": "belgesel",
         "title": "Belgesel",
-        "backgroundImageUrl": "https://example.com/images/belgesel.jpg"
+        "backgroundImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg"
       }
       
     ]
