@@ -2,40 +2,39 @@
   "muzik": [
     {
       "id": "muzik1",
-      "title": "Rock Konseri",
-      "description": "Harika bir rock performansı",
+      "title": "Big Buck Bunny",
+      "description": "Efsane animasyon - müzik temalı",
       "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
       "backgroundImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
       "category": "muzik"
     },
     {
       "id": "muzik2",
-      "title": "Jazz Gecesi",
-      "description": "Canlı jazz performansı",
+      "title": "Sintel HLS",
+      "description": "Jazz gecesi canlı yayını (HLS)",
       "videoUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
-      "backgroundImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "backgroundImageUrl": "https://bitmovin-a.akamaihd.net/content/sintel/poster.png",
       "category": "muzik"
     }
   ],
   "spor": [
     {
       "id": "spor1",
-      "title": "Futbol Maçı",
-      "description": "Gollerle dolu bir derbi",
-      "videoUrl": "https://example.com/videos/futbol.mp4",
-      "backgroundImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "title": "Tears of Steel",
+      "description": "Aksiyon dolu bilim kurgu",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+      "backgroundImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
       "category": "spor"
     }
   ],
   "belgesel": [
     {
       "id": "belgesel1",
-      "title": "Doğa ve Yaşam",
-      "description": "Yaban hayatına yolculuk",
-      "videoUrl": "https://example.com/videos/belgesel.mp4",
-      "backgroundImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "title": "Elephants Dream",
+      "description": "Soyut bir hikaye: Belgesel tadında",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+      "backgroundImageUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
       "category": "belgesel"
     }
   ]
 }
-
