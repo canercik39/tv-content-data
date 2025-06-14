@@ -5,12 +5,12 @@
       {
         "title": "NTV",
         "url": "https://www.ntv.com.tr",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/thumb/f/fc/Ntv_yeni_logo.svg/2560px-Ntv_yeni_logo.svg.png"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/f/fc/Ntv_yeni_logo.svg"
       },
       {
         "title": "CNN Türk",
         "url": "https://www.cnnturk.com",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/CNN_T%C3%BCrk_logo_2010.svg/2560px-CNN_T%C3%BCrk_logo_2010.svg.png"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/CNN_T%C3%BCrk_logo_2010.svg"
       }
     ]
   },
@@ -30,13 +30,5 @@
       {
         "title": "PowerTürk",
         "url": "https://www.powerturk.com",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/5/5d/Power_T%C3%BCrk_Logo.png"
-      }
-    ]
-  },
-  {
-    "name": "Videolar",
-    "links": []
-  }
-]
+        "imageUrl":
 
