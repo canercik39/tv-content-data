@@ -1,7 +1,7 @@
 [
   {
     "name": "Haber",
-    "links": [
+    "links": []
       {
         "title": "NTV",
         "url": "https://www.ntv.com.tr",
@@ -16,7 +16,7 @@
   },
   {
     "name": "Spor",
-    "links": [
+    "links": []
       {
         "title": "TRT Spor",
         "url": "https://www.trtspor.com.tr",
@@ -26,7 +26,7 @@
   },
   {
     "name": "Müzik",
-    "links": [
+    "links": []
       {
         "title": "PowerTürk",
         "url": "https://www.powerturk.com",
@@ -36,7 +36,7 @@
   },
   {
     "name": "Videolar",
-    "links": [
+    "links": []
       {
         "title": "Lofi Chill Beats",
         "url": "https://www.example.com/videos/lofi.mp4",
