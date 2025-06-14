@@ -328,11 +328,4 @@
         "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/javbest.png"
       }
     ]
-  },
-  {
-    "name": "Videolar",
-    "links": [
-      { "title": "Videolar", "url": "", "imageUrl": "https://..." }
-    ]
   }
-]
