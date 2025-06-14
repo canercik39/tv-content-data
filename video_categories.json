@@ -2,11 +2,51 @@
   {
     "title": "Spor",
     "imageUrl": "https://via.placeholder.com/300x200.png?text=Spor",
-    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/refs/heads/main/spor_videolar.json"
+    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/spor.json"
   },
   {
     "title": "Belgesel",
     "imageUrl": "https://via.placeholder.com/300x200.png?text=Belgesel",
-    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/refs/heads/main/spor_videolar.json"
+    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/belgesel.json"
+  },
+  {
+    "title": "Teknoloji",
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Teknoloji",
+    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/teknoloji.json"
+  },
+  {
+    "title": "Müzik",
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=M%C3%BCzik",
+    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/muzik.json"
+  },
+  {
+    "title": "Yemek",
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Yemek",
+    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/yemek.json"
+  },
+  {
+    "title": "Fragmanlar",
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Fragman",
+    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/fragmanlar.json"
+  },
+  {
+    "title": "Çizgi Film",
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Animasyon",
+    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/cizgi.json"
+  },
+  {
+    "title": "Komedi",
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Komedi",
+    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/komedi.json"
+  },
+  {
+    "title": "Eğitim",
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=E%C4%9Fitim",
+    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/egitim.json"
+  },
+  {
+    "title": "Haber",
+    "imageUrl": "https://via.placeholder.com/300x200.png?text=Haber",
+    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/haber.json"
   }
 ]
