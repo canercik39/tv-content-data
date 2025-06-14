@@ -1,32 +1,55 @@
 [
   {
-    "category": "Haber",
-    "sites": [
+    "name": "Haber",
+    "links": [
       {
         "title": "NTV",
         "url": "https://www.ntv.com.tr",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/NTV_Turkiye_logo.svg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/f/fc/Ntv_yeni_logo.svg"
       },
       {
-        "title": "HaberTürk",
-        "url": "https://www.haberturk.com",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Habert%C3%BCrk_logo.svg"
+        "title": "CNN Türk",
+        "url": "https://www.cnnturk.com",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4c/CNN_T%C3%BCrk_logo_2010.svg"
       }
     ]
   },
   {
-    "category": "Spor",
-    "sites": [
+    "name": "Spor",
+    "links": [
       {
         "title": "TRT Spor",
         "url": "https://www.trtspor.com.tr",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/TRT_Spor_logo_2019.svg"
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/3/38/TRT_Spor_logo_2019.svg"
+      }
+    ]
+  },
+  {
+    "name": "Müzik",
+    "links": [
+      {
+        "title": "PowerTürk",
+        "url": "https://www.powerturk.com",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/tr/5/5d/Power_T%C3%BCrk_Logo.png"
+      }
+    ]
+  },
+  {
+    "name": "Videolar",
+    "links": [
+      {
+        "title": "Lofi Chill Beats",
+        "url": "https://www.example.com/videos/lofi.mp4",
+        "imageUrl": "https://www.example.com/images/lofi.jpg",
+        "type": "video"
       },
       {
-        "title": "Fotomaç",
-        "url": "https://www.fotomac.com.tr",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Fotomac_logo.png"
+        "title": "Spor Highlights",
+        "url": "https://www.example.com/videos/sport.mp4",
+        "imageUrl": "https://www.example.com/images/sport.jpg",
+        "type": "video"
       }
     ]
   }
 ]
+
