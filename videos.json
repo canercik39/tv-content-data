@@ -1,43 +1,14 @@
-[
+{
+  "videos": [
     {
-      
-      "id": "muzik1",
-      "title": "Big Buck Bunny",
-      "description": "Efsane animasyon - müzik temalı",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
-      "backgroundImageUrl": "https://bitmovin-a.akamaihd.net/content/sintel/poster.png",
-      "category": "muzik"
+      "title": "Müslüm Gürses - Hangimiz Sevmedik",
+      "videoUrl": "https://www.example.com/videos/hangimizsevmedik.mp4",
+      "imageUrl": "https://img.youtube.com/vi/kXYiU_JCYtU/maxresdefault.jpg"
     },
-    ]
     {
-      "id": "muzik2",
-      "title": "Sintel HLS",
-      "description": "Jazz gecesi canlı yayını (HLS)",
-      "videoUrl": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8",
-      "backgroundImageUrl": "https://bitmovin-a.akamaihd.net/content/sintel/poster.png",
-      "category": "muzik"
+      "title": "Tarkan - Şımarık",
+      "videoUrl": "https://www.example.com/videos/simarik.m3u8",
+      "imageUrl": "https://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg"
     }
-  ],
-  "spor": [
-    {
-      "id": "spor1",
-      "title": "Tears of Steel",
-      "description": "Aksiyon dolu bilim kurgu",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-      "backgroundImageUrl": "https://bitmovin-a.akamaihd.net/content/sintel/poster.png",
-      "category": "spor"
-    }
-  ],
-  "belgesel": [
-    {
-      "id": "belgesel1",
-      "title": "Elephants Dream",
-      "description": "Soyut bir hikaye: Belgesel tadında",
-      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-      "backgroundImageUrl": "https://bitmovin-a.akamaihd.net/content/sintel/poster.png",
-      "category": "belgesel"
-    }
-      
-    ]
-  }
-]
+  ]
+}
