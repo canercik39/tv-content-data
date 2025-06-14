@@ -2,11 +2,11 @@
   {
     "title": "Spor",
     "imageUrl": "https://via.placeholder.com/300x200.png?text=Spor",
-    "jsonUrl": "https://.../spor_videolar.json"
+    "jsonUrl": "https://raw.githubusercontent.com/kullanici/repo/main/spor_videolar.json"
   },
   {
     "title": "Belgesel",
     "imageUrl": "https://via.placeholder.com/300x200.png?text=Belgesel",
-    "jsonUrl": "https://.../belgesel_videolar.json"
+    "jsonUrl": "https://raw.githubusercontent.com/kullanici/repo/main/belgesel_videolar.json"
   }
 ]
