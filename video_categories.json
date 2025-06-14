@@ -1,0 +1,13 @@
+[
+  {
+    "title": "Spor",
+    "imageUrl": "https://.../spor.png",
+    "jsonUrl": "https://.../spor_videolar.json"
+  },
+  {
+    "title": "Belgesel",
+    "imageUrl": "https://.../belgesel.png",
+    "jsonUrl": "https://.../belgesel_videolar.json"
+  }
+  // toplam 10 tane
+]
