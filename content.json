@@ -51,6 +51,11 @@
         "name": "Taki-Taki",
         "url": "https://taki-taki.me",
         "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/taki.png"
+      },
+      {
+        "name": "Pornoflix",
+        "url": "https://pornoflix.com",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/flix.png"
       }
     ]
   },
