@@ -1,8 +1,8 @@
 [
   {
-    "title": "Spor",
-    "imageUrl": "https://via.placeholder.com/300x200.png?text=Spor",
-    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/refs/heads/main/spor.json"
+    "title": "VAKİNGE",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/vakinge.png",
+    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/refs/heads/main/VAKİNGE.json"
   },
   {
     "title": "Belgesel",
