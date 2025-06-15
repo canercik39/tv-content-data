@@ -58,9 +58,9 @@
     "name": "Premium",
     "links": [
       {
-        "name": "Eporner",
-        "url": "https://www.eporner.com",
-        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/eporner.png"
+        "name": "FitPorn",
+        "url": "https://fit.porn",
+        "iconUrl": "https://fit.porn/static/images/logo.png"
       },
       {
         "name": "HQporner",
