@@ -5,9 +5,9 @@
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/refs/heads/main/VAKİNGE.json"
   },
   {
-    "title": "Belgesel",
-    "imageUrl": "https://via.placeholder.com/300x200.png?text=Belgesel",
-    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/belgesel.json"
+    "title": "Verified",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/Verified.png",
+    "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/Verified.json"
   },
   {
     "title": "Teknoloji",
