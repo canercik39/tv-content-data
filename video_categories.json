@@ -1,52 +1,52 @@
 [
   {
     "title": "Amateur",
-    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/kat1.png",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/refs/heads/main/VAKİNGE.json"
   },
   {
     "title": "Verified",
-    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/verified.png",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/refs/heads/main/Verified.json"
   },
   {
-    "title": "Teknoloji",
-    "imageUrl": "https://via.placeholder.com/300x200.png?text=Teknoloji",
+    "title": "FullVideo",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/teknoloji.json"
   },
   {
-    "title": "Müzik",
-    "imageUrl": "https://via.placeholder.com/300x200.png?text=M%C3%BCzik",
+    "title": "60Fps",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/muzik.json"
   },
   {
-    "title": "Yemek",
-    "imageUrl": "https://via.placeholder.com/300x200.png?text=Yemek",
+    "title": "4K",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/yemek.json"
   },
   {
-    "title": "Fragmanlar",
-    "imageUrl": "https://via.placeholder.com/300x200.png?text=Fragman",
+    "title": "Premium",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/fragmanlar.json"
   },
   {
-    "title": "Çizgi Film",
-    "imageUrl": "https://via.placeholder.com/300x200.png?text=Animasyon",
+    "title": "Karısık",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/cizgi.json"
   },
   {
-    "title": "Komedi",
-    "imageUrl": "https://via.placeholder.com/300x200.png?text=Komedi",
+    "title": "Kısa_videolar",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/komedi.json"
   },
   {
-    "title": "Eğitim",
-    "imageUrl": "https://via.placeholder.com/300x200.png?text=E%C4%9Fitim",
+    "title": "Uzun_filmler",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/egitim.json"
   },
   {
-    "title": "Haber",
-    "imageUrl": "https://via.placeholder.com/300x200.png?text=Haber",
+    "title": "Modeller",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/haber.json"
   }
 ]
