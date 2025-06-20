@@ -58,6 +58,20 @@
         "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/flix.png"
       },
       {
+        "name": "REDTUBE",
+        "url": "https://www.redtube.com/",
+        "iconUrl": "https://ei.rdtcdn.com/www-static/cdn_files/redtube/images/common/logo/redtube_logo.svg"
+      },
+      {
+        "name": "Eporner",
+        "url": "https://www.eporner.com",
+        "iconUrl": "https://galaxyporn.net/wp-content/uploads/2025/05/eporner.png"
+      },{
+        "name": "Galaxyporn",
+        "url": "https://galaxyporn.net",
+        "iconUrl": "https://galaxyporn.net/wp-content/uploads/2025/05/logos_2_.webp"
+      },
+      {
         "name": "Galaxyporn",
         "url": "https://galaxyporn.net",
         "iconUrl": "https://galaxyporn.net/wp-content/uploads/2025/05/logos_2_.webp"
