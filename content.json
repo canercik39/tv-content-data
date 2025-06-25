@@ -93,6 +93,11 @@
         "name": "xfeed",
         "url": "https://www.24xxx.me",
         "iconUrl": "https://www.24xxx.me/img/logo.png"
+      },
+      {
+        "name": "BEEG",
+        "url": "https://beeg.com/",
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/beeg.png"
       }
     ]
   },
