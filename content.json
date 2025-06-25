@@ -72,7 +72,7 @@
       {
         "name": "Noodlemagazine",
         "url": "https://noodlemagazine.com/",
-        "iconUrl": "https://galaxyporn.net/wp-content/uploads/2025/05/logos_2_.webp"
+        "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/nod.png"
       },
       {
         "name": "Pornk",
@@ -83,6 +83,11 @@
         "name": "xfeed",
         "url": "https://xfeed.com",
         "iconUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/xfeed.png"
+      },
+      {
+        "name": "xfeed",
+        "url": "https://www.24xxx.me",
+        "iconUrl": "https://www.24xxx.me/img/logo.png"
       }
     ]
   },
