@@ -1,0 +1,27 @@
+[
+  {
+    "title": "YouTube (Mobil)",
+    "url": "https://m.youtube.com",
+    "thumbnail": "https://www.youtube.com/s/desktop/85fd6af3/img/favicon_144.png"
+  },
+  {
+    "title": "Dailymotion",
+    "url": "https://www.dailymotion.com",
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Dailymotion_logo.svg/512px-Dailymotion_logo.svg.png"
+  },
+  {
+    "title": "Archive.org Video",
+    "url": "https://archive.org/details/movies",
+    "thumbnail": "https://archive.org/images/archive-logo.png"
+  },
+  {
+    "title": "Vimeo",
+    "url": "https://vimeo.com",
+    "thumbnail": "https://vimeo.com/favicon.ico"
+  },
+  {
+    "title": "Uyanık TV",
+    "url": "https://www.uydunet.tv",
+    "thumbnail": "https://www.uydunet.tv/img/logo.png"
+  }
+]
