@@ -11,42 +11,42 @@
   },
   {
     "title": "FullVideo",
-    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/film2.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/teknoloji.json"
   },
   {
     "title": "60Fps",
-    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/film2.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/muzik.json"
   },
   {
     "title": "4K",
-    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/film2.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/yemek.json"
   },
   {
     "title": "Premium",
-    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/film2.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/fragmanlar.json"
   },
   {
     "title": "Karısık",
-    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/film2.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/cizgi.json"
   },
   {
     "title": "Kısa_videolar",
-    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/film2.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/komedi.json"
   },
   {
     "title": "Uzun_filmler",
-    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/film2.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/egitim.json"
   },
   {
     "title": "Modeller",
-    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/iptv.png",
+    "imageUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/icons/film2.png",
     "jsonUrl": "https://raw.githubusercontent.com/canercik39/tv-content-data/main/videolar/haber.json"
   }
 ]
